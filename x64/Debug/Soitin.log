@@ -1,0 +1,6 @@
+﻿  Soitin.cpp
+E:\Gradu\app\Soitin\sound.h(15,19): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+E:\Gradu\app\Soitin\sound.h(16,22): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+E:\Gradu\app\Soitin\Soitin.cpp(27,40): warning C4267: 'initializing': conversion from 'size_t' to 'sf::Int16', possible loss of data
+E:\Gradu\app\Soitin\Soitin.cpp(121,32): warning C4267: '=': conversion from 'size_t' to 'sf::Int16', possible loss of data
+  Soitin.vcxproj -> E:\Gradu\app\Soitin\x64\Debug\Soitin.exe
